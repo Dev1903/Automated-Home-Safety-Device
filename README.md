@@ -25,7 +25,7 @@ This project involves creating a home safety monitoring system using ESP8266 mic
 
 2. **Software Setup**:
    - Install Arduino IDE and necessary libraries for ESP8266 development.
-   - Upload the provided Arduino sketch (`homesafety.ino`) to the ESP8266.
+   - Upload the provided Arduino sketch (`home_safety.ino`) to the ESP8266.
 
 3. **Blynk Configuration**:
    - Create a Blynk account and project.
