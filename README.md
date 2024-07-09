@@ -21,8 +21,6 @@ This project is a comprehensive home safety monitoring system that utilizes the 
 - **Motor**: Controls the opening of a window.
 - **Servo Motor**: Controls the opening of a door.
 
-## Circuit Diagram
-
 ### Pin Connections
 
 - **MQ2 Sensor**: Analog pin A0
